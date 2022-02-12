@@ -1,0 +1,4 @@
+.idea
+cfg.yaml
+venv
+__pycache__
